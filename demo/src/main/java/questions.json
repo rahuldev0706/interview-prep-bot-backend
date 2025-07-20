@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "type": "DSA",
+    "question": "Explain time complexity of binary search.",
+    "idealAnswer": "Binary search has O(log n) time complexity as it divides the array in half each time."
+  },
+  {
+    "id": 2,
+    "type": "HR",
+    "question": "Tell me about a time you handled conflict.",
+    "idealAnswer": "In my college group project..."
+  }
+]
